@@ -2,26 +2,42 @@
   "foods": [
     {
       "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
-      "price": "19.90",
+      "name": "Teste 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": "29.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
     },
     {
       "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
+      "name": "Teste 2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": "39.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
     {
       "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
-      "available": false,
+      "name": "Teste 3",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": "49.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "id": 4,
+      "name": "Teste 4",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": "9.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "id": 5,
+      "name": "Teste 5",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": "9.90",
+      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     }
   ]
