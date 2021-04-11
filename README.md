@@ -106,7 +106,7 @@ Projeto licenciado por MIT [LICENSE](./LICENSE).
 <br>
 <hr>
 <p align="center">
-<a href="https://github.com/CaioLemec"><img src="https://img.shields.io/static/v1?label=&message=Developed by Caio Lemec&color=33CC95&style=for-the-badge&logo=GitHub"/>
-<a href="caiolemec@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=E-mail&color=33CC95&style=for-the-badge&logo=Gmail"/>
-<a href="https://br.linkedin.com/in/caio-lemec/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=33CC95&style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/CaioLemec"><img src="https://img.shields.io/static/v1?label=&message=Developed by Caio Lemec&color=red&style=for-the-badge&logo=GitHub"/>
+<a href="caiolemec@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=E-mail&color=red&style=for-the-badge&logo=Gmail"/>
+<a href="https://br.linkedin.com/in/caio-lemec/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=red&style=for-the-badge&logo=linkedin"/>
 <br></p>
