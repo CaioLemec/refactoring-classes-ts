@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-  <a href="#-Projeto"><img src="https://img.shields.io/static/v1?label=&message=PROJETO&color=blue&style=for-the-badge&logo=REACT"/></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Layout"><img src="https://img.shields.io/static/v1?label=&message=LAYOULT&color=blue&style=for-the-badge&logo=styled-components"/></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Environment"><img src="https://img.shields.io/static/v1?label=&message=AMBIENTE&color=blue&style=for-the-badge&logo=Yarn"/></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#%EF%B8%8F-license"><img src="https://img.shields.io/static/v1?label=&message=LICENÇA&color=blue&style=for-the-badge&logo=docusign"/></a>
+  <a href="#-Projeto"><img src="https://img.shields.io/static/v1?label=&message=PROJETO&color=red&style=for-the-badge&logo=REACT"/></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Layout"><img src="https://img.shields.io/static/v1?label=&message=LAYOULT&color=red&style=for-the-badge&logo=styled-components"/></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Environment"><img src="https://img.shields.io/static/v1?label=&message=AMBIENTE&color=red&style=for-the-badge&logo=Yarn"/></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-license"><img src="https://img.shields.io/static/v1?label=&message=LICENÇA&color=red&style=for-the-badge&logo=docusign"/></a>
 </p>
 
 <br>
@@ -59,7 +59,7 @@ Para concluir este desafio foi necessário alterar os seguintes documentos:
 ## 🎨 Layout
 <hr>
 <p align="center">
-<img src="./src/assets/images/food.gif" width="70%" height="70%" />
+<img src="./src/assets/food.gif" width="60%" height="60%" />
 </p>
 
 <br>
@@ -102,3 +102,11 @@ http://localhost:3000/
 <hr>
 
 Projeto licenciado por MIT [LICENSE](./LICENSE).
+
+<br>
+<hr>
+<p align="center">
+<a href="https://github.com/CaioLemec"><img src="https://img.shields.io/static/v1?label=&message=Developed by Caio Lemec&color=33CC95&style=for-the-badge&logo=GitHub"/>
+<a href="caiolemec@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=E-mail&color=33CC95&style=for-the-badge&logo=Gmail"/>
+<a href="https://br.linkedin.com/in/caio-lemec/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=33CC95&style=for-the-badge&logo=linkedin"/>
+<br></p>
